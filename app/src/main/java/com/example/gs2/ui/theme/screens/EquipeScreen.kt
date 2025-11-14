@@ -31,7 +31,7 @@ fun EquipeScreen(
 
         Text(text = "Integrantes:", fontSize = 18.sp)
         Text(text = "Henrique Vieira 558777")
-        Text(text = "Ygor Arean 8870")
+        Text(text = "Ygor Arean 88170")
 
         Spacer(modifier = Modifier.height(32.dp))
 
